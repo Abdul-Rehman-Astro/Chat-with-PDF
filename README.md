@@ -1,5 +1,5 @@
-# Chat-with-PDF
-Chat with PDF
+# DocHelper
+Interect With any Document
 ### The core objective of DocHelper is to facilitate users in interacting with PDF documents in a more intuitive and dynamic manner.With the application of the BERT model (Bidirectional Encoder Representations from Transformers), this project demonstrates the potential of deep learning models in extracting meaningful insights from intricate textual data. 
 
 # Technologies Used:
